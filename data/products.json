@@ -1,0 +1,20 @@
+[
+  {
+    "name": "mate camionero",
+    "descripcion": "Mate de cuero con detalles en alpaca",
+    "foto": "https://www.mundosetmatero.com/wp-content/uploads/2021/07/Mate-camionero-uruguayo-virola-cincelada.jpg",
+    "precio": "7100",
+    "stock": 20,
+    "id": 1,
+    "timestamp": 1644270608001
+  },
+  {
+    "name": "mate imperial",
+    "descripcion": "Mate de cuero con detalles en alpaca",
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwOTGwVzCLVoEYthJUUJ9Qnpa3v443OnJLXrk3aGUE4hEKQbBTjMCwcJTew9i5N-x_xzs&usqp=CAU",
+    "precio": "8100",
+    "stock": 15,
+    "id": 2,
+    "timestamp": 1644270669269
+  }
+]
